@@ -13,3 +13,10 @@ body {
     color: whitesmoke;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
+img {
+    width: 25ch;
+    padding: 3em;
+}
+#divide {
+    float: left;
+}
