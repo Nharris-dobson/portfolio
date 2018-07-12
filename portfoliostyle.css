@@ -1,3 +1,15 @@
 body {
-    background: lightseagreen;
+    background: palevioletred;
+}
+
+#paragraph1 {
+    font-size: 1.5rem;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#paragraph2 {
+    font-size: 1.5rem;
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
