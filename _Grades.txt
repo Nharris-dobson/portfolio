@@ -1,0 +1,23 @@
+Assignment: Use CSS ID selectors to style two paragraphs on your About Me page differently.
+
+Grade: 100
+
+Comment: Good job
+
+########
+
+Assignment: Add an image to your About Me page and edit the CSS so the image and paragraphs are side-by-side.
+
+Grade:  80
+
+Comment: You have the image, and you had the right idea with the floats, but you needed to do a little more to get it working...  change the widths of the div so it's not full page, and add another float to the image.
+
+########
+
+Overall Portfolio:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade:  95
+
+Comment: Overall a good start.
+
+I did note a few things as TODO items in your code.   You can view them by clicking the ToDo Tree icon on the left of your VS Code window.
