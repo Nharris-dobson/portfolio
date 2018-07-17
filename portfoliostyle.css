@@ -1,5 +1,5 @@
 body {
-    background: palevioletred;
+    background: plum;
 }
 
 #paragraph1 {
@@ -10,7 +10,7 @@ body {
 
 #paragraph2 {
     font-size: 1.5rem;
-    color: whitesmoke;
+    color: white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 img {
