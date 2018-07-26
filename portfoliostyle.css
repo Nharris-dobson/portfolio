@@ -16,13 +16,30 @@ body {
 img {
     width: 75ch;
     padding: 3em;
+    animation-name: animation;
+    animation-duration: 2s;
 }
 #divide {
     float: left;
 }
 a:hover {
-    font-size: 300%;
+    font-size: 400%;
 }
 a {
     color: white;
 }
+
+@keyframes animation {
+    0% {
+        transform: scale(1.0);
+        opacity: 0;   
+   }
+   100% {
+    transform: scale(1.5);
+    opacity: 1;
+   }   
+}
+
+
+
+ 
