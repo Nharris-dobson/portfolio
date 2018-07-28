@@ -1,0 +1,36 @@
+Portfolio final grade: 94
+
+Comments:  Good effort.
+
+########
+
+Code Quality:  Does it follow proper HTML and CSS rules, including the Clean HTML Tips and other issues noted in class?
+
+Grade: 94
+(50% of overall grade)
+
+Points deducted for these items:
+ -3 portfolio-sm.css link missing on 3 pages.
+ -3 Unused images left in project.
+
+
+########
+
+Design and Accessibility:  Does incorporate the CSS techniques covered in class and incorporate accessibility support for at least one of the areas we discussed?
+
+Grade: 92
+(25% of overall grade)
+
+Points deducted for these items:
+    -4 #paragraph1 and #paragraph2 CSS could have been combined in to one class.
+    -4 unneeded CSS properties duplicated in the portfolio-sm.css file.
+
+########
+
+Advanced CSS:  Does it use advanced css techniques, like animations/transitions and media queries for mobile responsiveness?
+
+Grade: 99
+(25% of overall grade)
+
+Points deducted for these items:
+ -1 :hover changes make the links difficult to use on mobile.
